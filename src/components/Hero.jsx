@@ -124,6 +124,9 @@ export default function Hero() {
             Thursday · 26 November · 2026
             <br />
             07:48 AM – 09:56 AM
+            Sathyanarayana Swamy Pooja · 29th Sun
+            <br />
+            11am onwards. M Beerepalli, Hindupur
           </motion.div>
 
           {/* Family Details */}
